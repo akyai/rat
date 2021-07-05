@@ -1,0 +1,28 @@
+{
+  "name": "trojan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "desktop-screenshot": "^0.1.1",
+    "discord.js": "^12.5.3",
+    "exec": "^0.2.1",
+    "github-content": "^1.0.1",
+    "github-download": "^0.5.0",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "ip": "^1.1.5",
+    "js-file-download": "^0.4.12",
+    "node-fetch": "^2.6.1",
+    "screenshot-desktop": "^1.12.6"
+  },
+  "devDependencies": {
+    "package": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
